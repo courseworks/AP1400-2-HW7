@@ -124,6 +124,8 @@ def myfunc():
 
 # Matplotlib
 Using the image in `resources/image.jpg` implement the following plot using matplotlib in `src/daemon_figure.py` and show the figure at the end.
+(see `resources/image.gif` if *following plot* is not loading)
+
 
 <br>
 <p align="center">
